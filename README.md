@@ -1,9 +1,9 @@
 # ✔C Programming✔
 
--> softwareProject
+softwareProject
 
 
-13번 동적 메모리 할당
+* 13번 동적 메모리 할당
 void *calloc(size_t nmemb, size_t size); 
 calloc() allocates memory for an array of nmemb elements of size bytes each and returns a pointer to the allo- cated memory. The memory is set to zero. 
 
