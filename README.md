@@ -1,6 +1,5 @@
-C Programming
-
-
+✔C Programming✔
+-> softwareProject
 
 13번 동적 메모리 할당
 void *calloc(size_t nmemb, size_t size); 
